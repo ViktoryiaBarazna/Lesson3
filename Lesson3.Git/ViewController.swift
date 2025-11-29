@@ -25,7 +25,3 @@ func myFirstFunction() {
 func mySecondFunction() {
         // Моя вторая функция. Она тоже ничего не делает.
     }
-
-func myThirdFunction() {
-        // Моя третья функция. И она ничего не делает. Но Бог троицу любит.
-    }
