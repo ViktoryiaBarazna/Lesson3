@@ -26,3 +26,7 @@ func myFirstFunction() {
     func getGreeting(name: String) -> String {
         return "Привет, \(name)!"
     }
+
+func myFunc() {
+    print("Hello, Swift")
+   }
