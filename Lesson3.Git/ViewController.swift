@@ -17,3 +17,7 @@ class ViewController: UIViewController {
 
 }
 
+
+func myFirstFunction() {
+        // Моя первая функция. Она ничего не делает, я тоже так хочу.
+    }
