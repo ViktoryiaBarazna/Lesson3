@@ -22,3 +22,7 @@ func myFirstFunction() {
         // Моя первая функция. Она ничего не делает, я тоже так хочу.
     }
 
+// Добавляем функцию для работы с текстом
+    func getGreeting(name: String) -> String {
+        return "Привет, \(name)!"
+    }
